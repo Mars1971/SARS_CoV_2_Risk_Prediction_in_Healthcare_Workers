@@ -1,6 +1,9 @@
 # SARS_CoV_2_Risk_Prediction_in_Healthcare_Workers
 Prediction model of a positive SARS-CoV-2 RT-PCR result in healthcare workers with suspected SARS-CoV-2 infection in hospital settings
 
+Valderrama-Beltrán SL, Cuervo-Rojas J, Rondón M, Montealegre-Diaz JS, Vera JD, Martinez-Vernaza S, Bonilla A, Molineros C, Fierro V, Moreno A, Villalobos L, Ariza B, Álvarez-Moreno C. Development of a diagnostic multivariable prediction model of a positive SARS-CoV-2 RT-PCR result in healthcare workers with suspected SARS-CoV-2 infection in hospital settings. PLoS One. 2024 Dec 26;19(12):e0316207. doi: 10.1371/journal.pone.0316207. PMID: 39724211; PMCID: PMC11670996 (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316207)
+
+
 Access to calculator at the following link:
 
 https://martinrondon.shinyapps.io/SARS_CoV_2_Risk_Prediction_in_Healthcare_Workers/
